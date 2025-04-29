@@ -1,1 +1,3 @@
-# qarepository
+**#qarepository**
+
+В данном проекте мы работаем с ветками и файлами в GitHub 
